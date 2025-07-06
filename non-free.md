@@ -137,6 +137,7 @@
 
 ### File Transfer & Synchronization
 
+- [DotPlus](https://github.com/nigdanil/dotplus) - Offline QR & barcode generator with GUI and CLI, bulk CSV input, PNG/PDF export, and Docker support. Works entirely locally. ![Non-Free](https://img.shields.io/badge/license-proprietary-blue.svg) `Proprietary` `Rust`
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [FileRun](https://www.filerun.com/) - Complete solution for your files with integration with Google and Office. ([Demo](https://www.filerun.com/demo)) `⊘ Proprietary` `PHP`
